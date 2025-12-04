@@ -1,0 +1,10 @@
+***is project me ui react ka he or server xampp ka or db Mysql use kiya he ***
+******react ki build file bana kar ke xampp me host kiya he********
+
+build folder create karo
+npm run build
+
+****isme jo Xamppfile he use htdocs me rakhna he or build folder ko project ke andar rakhna he 
+ye react ke ui se php api ke through connect karega jisse bina build file ke bhi app cheak kar sakte he ki data a raha he ya nahi****
+
+myapp.sql ko mysql me rakhna he
